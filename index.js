@@ -291,3 +291,7 @@ module.exports = {
   fenomenGonderimSayisi,
   platformaGoreCokGonderiYapanFenomen
 }
+console.log(fenomenler[0]["profile"]);
+console.log(fenomenler[2]["followers"]);
+fenomenler[6].profile="Justin Bieber"
+console.log(fenomenler[6]);
